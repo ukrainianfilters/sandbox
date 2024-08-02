@@ -1,0 +1,4 @@
+! [uBlock Origin; Adblock Plus 3.2]
+! Title: Ukrainian Ad Filter
+! Description: Removes ads from Ukrainian websites
+!
