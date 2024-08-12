@@ -2,3 +2,10 @@
 ! Title: Ukrainian Ad Filter
 ! Description: Removes ads from Ukrainian websites
 !
+it-rating.ua##.stickybl
+kyivdictionary.com##.top-service-link
+kurs.com.ua###catfishWrap
+itvua.tv##.topbanner
+itvua.tv##.adwrapper
+visnyk-irpin.com.ua##.image
+vechirniy.kyiv.ua##.page-promo
