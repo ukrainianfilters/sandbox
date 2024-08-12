@@ -2,3 +2,13 @@
 ! Title: Ukrainian Annoyance Filter
 ! Description: Blocks irritating elements on Ukrainian and some popular foreign websites (cookie notices, pop-ups, banners etc.)
 !
+##.cookie-accept
+avk.ua##.coocie-pop
+tdl.com.ua###bottom_message
+trusteeglobal.eu###cm
+lorgar.ua,lorgar.com##.backdrop-blur.shadow-black
+koruna.ua###cookies_text
+canyon.ua##.cn-cookies
+3ona51.com##.cookiesAccept
+venus-clinic.com.ua##.pcb
+||lvivrada.gov.ua/plugins/system/simple_cookie_consent/$script,1p
