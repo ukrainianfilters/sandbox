@@ -1,11 +1,13 @@
 ! [uBlock Origin; Adblock Plus 3.2]
 ! Title: Ukrainian Ad Filter
 ! Description: Removes ads from Ukrainian websites
-!
+
+! >>>
+! https://github.com/ukrainianfilters/lists/pull/37
 it-rating.ua##.stickybl
-kyivdictionary.com##.top-service-link
-kurs.com.ua###catfishWrap
-itvua.tv##.topbanner
 itvua.tv##.adwrapper
-visnyk-irpin.com.ua##.image
+itvua.tv##.topbanner
+kurs.com.ua###catfishWrap
+kyivdictionary.com##.top-service-link
 vechirniy.kyiv.ua##.page-promo
+visnyk-irpin.com.ua##.image
