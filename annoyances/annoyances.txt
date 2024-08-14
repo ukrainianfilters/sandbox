@@ -52,3 +52,4 @@ rice.ua##.wd-cookies-popup
 uspacy.ua##.cookiesNotification_wrapper__GmKnu
 bvr.ua##.cookie-notify
 stat.gov.ua##.consent-modal
+librarius.pro##.CookieBanner_wrap__w6v9M
