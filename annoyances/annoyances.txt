@@ -16,7 +16,7 @@ venus-clinic.com.ua##.pcb
 ||lvivrada.gov.ua/plugins/system/simple_cookie_consent/$script,1p
 
 ! >>>
-! 
+! https://github.com/ukrainianfilters/lists/pull/41
 fitness-class.com.ua,nashemisto.dp.ua,afishadnepr.com.ua,startermedia.com.ua###cookie-law-info-bar
 ridni.org.ua##aside.cookies-banner
 penguin-team.ua##.coockies__message
