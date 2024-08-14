@@ -42,7 +42,7 @@ search.com.ua##.cookie-policy-notice
 euromix.in.ua##.lqd-gdpr
 agrodoctor.ua##.navbar-cookies
 mobizon.ua##.confirm-cookie-block
-www.vitaello.com.ua###consent
+vitaello.com.ua###consent
 shop.bmw.ua##.cookies-content
 bmw.ua##epaas-consent-drawer-shell
 tucha.ua##.bl-vcustom-cookies
@@ -51,3 +51,4 @@ whiteweb.ua##.cc-banner
 rice.ua##.wd-cookies-popup
 uspacy.ua##.cookiesNotification_wrapper__GmKnu
 bvr.ua##.cookie-notify
+stat.gov.ua##.consent-modal
