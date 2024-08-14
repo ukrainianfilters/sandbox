@@ -21,7 +21,8 @@ fitness-class.com.ua,nashemisto.dp.ua,afishadnepr.com.ua,startermedia.com.ua###c
 ridni.org.ua##aside.cookies-banner
 penguin-team.ua##.coockies__message
 fiatprofessional.ua###trackingCookie.row
-soroban.ua##.active.policy
+online.soroban.ua##.active.policy
+soroban.ua##.chakra-portal
 board.if.ua##.cookieslayer
 everlegal.ua##.cookies-popup
 pdmsh.ua###cookies-modal
