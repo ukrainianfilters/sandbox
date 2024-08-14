@@ -2,3 +2,4 @@
 ! Title: Ukrainian Privacy Filter
 ! Description: Blocks trackers and harmful scripts, reduces the ability of third parties to collect data about your browsing behavior
 !
+||search.com.ua/analytics/$1p
