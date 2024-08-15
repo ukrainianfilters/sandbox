@@ -53,3 +53,34 @@ uspacy.ua##.cookiesNotification_wrapper__GmKnu
 bvr.ua##.cookie-notify
 stat.gov.ua##.consent-modal
 librarius.pro##.CookieBanner_wrap__w6v9M
+developers.deepl.com##[aria-label="Cookies"]
+deepl.com##div[class^="cookieBanner-"]
+ukraine.com.ua###gdpr-banner-cookie
+maudau.com.ua###__next > div[class^="css-"]:has(> div > button.chakra-button)
+sony.ua###__tealiumDNS_banner
+stylus.ua##.main-content > footer + div > div:has(button[type="button"])
+lgseeds.com.ua#$##cookieModal { display: none !important; }
+lgseeds.com.ua#$#body { overflow: auto !important; padding-right: 0 !important; }
+lgseeds.com.ua#$#.modal-backdrop { display: none !important; }
+fora.ua##.jss93
+pasivka.com.ua#$##cookies-modal { display: none !important; }
+pasivka.com.ua#$#.backdrop { display: none !important; }
+pasivka.com.ua#$#.modal-opened body { overflow: auto !important; }
+concord.ua##.warning-cookie
+kp.ua##.modal_policy
+poehalisnami.ua##.jsAgreeWithCookie
+evzuttya.com.ua,eobuv.com.ua##.modal-consents
+tcc.ua##.tm-cookies
+prostavochka.com.ua##.messages_cookies
+yasensvit.ua##.coockies
+ithillel.ua##.cookie-ntf
+farsh.in.ua##.cookies-informer
+alfa-tv.ua##.cook
+funduk.ua##.cookie_inform
+gorod.dp.ua###myCookieConsent
+tickets.ua##.app-cookies
+facenews.ua###pblock
+bhub.com.ua##.policy-cookies
+datagroup.ua###js-cookie-notification
+vin.gov.ua##.consent-block
+104.ua###privacy-policy
