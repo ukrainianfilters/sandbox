@@ -87,6 +87,9 @@ bhub.com.ua##.policy-cookies
 datagroup.ua###js-cookie-notification
 vin.gov.ua##.consent-block
 104.ua###privacy-policy
+
+! >>>
+! https://github.com/ukrainianfilters/lists/commit/39cfb3f2a8babac0a8821da9764ccd415b3b72b6
 hodor.trackseries.tv##.cc-banner
 hodor.trackseries.tv##.cc-window[aria-label="cookieconsent"]
 hodor.trackseries.tv##.alert-warning.alert
