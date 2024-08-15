@@ -53,6 +53,9 @@ uspacy.ua##.cookiesNotification_wrapper__GmKnu
 bvr.ua##.cookie-notify
 stat.gov.ua##.consent-modal
 librarius.pro##.CookieBanner_wrap__w6v9M
+
+! >>>
+! https://github.com/ukrainianfilters/lists/pull/46
 developers.deepl.com##[aria-label="Cookies"]
 deepl.com##div[class^="cookieBanner-"]
 ukraine.com.ua###gdpr-banner-cookie
