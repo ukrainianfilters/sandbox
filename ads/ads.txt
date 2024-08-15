@@ -11,3 +11,17 @@ kurs.com.ua###catfishWrap
 kyivdictionary.com##.top-service-link
 vechirniy.kyiv.ua##.page-promo
 visnyk-irpin.com.ua##.image
+
+! >>>
+! 
+ukrlib.com.ua##.supertext2
+ukrlib.com.ua##div.thebestofthebest:nth-of-type(26)
+prolinux.pp.ua###block-12
+prolinux.pp.ua###block-13
+osvita.ua##.bx-shdw-mrgn-tp
+osvita.ua##.article__advertising
+zora-irpin.info###execphp-8
+zora-irpin.info###widget_sp_image-5
+slovnyk.ua##.col-lg-4
+predmety.in.ua##.entry-the-content > div > div:has(ins[class^="adsbygoogle"])
+predmety.in.ua##center > div:has(ins[class^="adsbygoogle"])
