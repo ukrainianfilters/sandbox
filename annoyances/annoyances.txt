@@ -81,3 +81,5 @@ vseosvita.ua##.vo-banner
 nashformat.ua##.special-wrapper
 ctrs.com.ua##.SidePopup_sideSmallPopupContainer___l8Ql
 ctrs.com.ua##.TopBanner_topBanner__FvJdJ
+eva.ua##.promotion-popup
+eva.ua##.o-top-banner
