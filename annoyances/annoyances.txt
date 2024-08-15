@@ -53,3 +53,31 @@ uspacy.ua##.cookiesNotification_wrapper__GmKnu
 bvr.ua##.cookie-notify
 stat.gov.ua##.consent-modal
 librarius.pro##.CookieBanner_wrap__w6v9M
+
+! >>>
+! 
+komoraczua.com,bat.ua###overlay
+вулик.петрівка.укр###hu-outer-wrapper
+bat.ua###sysCookieMessage
+bonibons.com###cookiesdirective
+kidstaff.com.ua###gdpr_panel
+torgsoft.kiev.ua##.cookie-allow-box
+cloud.net.ua,legs.com.ua,mhp.com.ua##.cookie-modal
+legs.com.ua##.section-box-first-order
+i.ua##.Disclaimer
+cityplaza.lexus.ua,city-plaza.lexus.ua##.layout > section
+cityplaza.toyota.ua##.cookie-prompt
+ivaniura.org.ua###accept_cookies
+wiki.ucu.edu.ua##.navbar-fixed-bottom.navbar-default.navbar
+
+! Google Recaptcha Badge
+! Ex.: https://kompas.co.ua
+##.grecaptcha-badge
+
+! Annoying banners
+vseosvita.ua##.bottom-banner
+vseosvita.ua##.n-sharick-open
+vseosvita.ua##.vo-banner
+nashformat.ua##.special-wrapper
+ctrs.com.ua##.SidePopup_sideSmallPopupContainer___l8Ql
+ctrs.com.ua##.TopBanner_topBanner__FvJdJ
