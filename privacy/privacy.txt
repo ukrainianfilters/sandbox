@@ -5,3 +5,9 @@
 ! >>>
 ! https://github.com/ukrainianfilters/lists/pull/41
 ||search.com.ua/analytics/$1p
+
+! >>>
+! 
+! Sinoptik
+brovary.net.ua##div#SinoptikInformer
+brovary.net.ua##.elementor-widget-smartmag-heading:has-text(Погода)
