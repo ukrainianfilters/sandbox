@@ -11,3 +11,24 @@ kurs.com.ua###catfishWrap
 kyivdictionary.com##.top-service-link
 vechirniy.kyiv.ua##.page-promo
 visnyk-irpin.com.ua##.image
+
+! >>>
+! 
+ukr.net##.fuel-bottom-banner
+kinoafisha.ua##.fixed.link-main-image-wrap
+it-rating.ua##.rowBan
+noworries.news##.header-baner
+socportal.info##div.overflow-hidden:has(ins[class^="adsbygoogle"])
+socportal.info##.sticky-wrapper:has(ins[class^="adsbygoogle"])
+socportal.info##div.box-content:has(ins[class^="adsbygoogle"])
+elitexpert.ua##.leader-wrap-out
+incrypted.com##.top-banner-airdrops
+players.com.ua##.banner-left
+players.com.ua##.banner-right
+players.com.ua##.banner-mobile-home1
+chasdiy.org##.top-content-wrapper
+chasdiy.org##div.side-content-wrapper
+psm7.com##.psm-header-baner-container
+odessa-life.od.ua##.wpb_wrapper > .code-block-3.code-block
+odessa-life.od.ua##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper
+imena.ua##section.widget:nth-of-type(1)
