@@ -32,3 +32,31 @@ psm7.com##.psm-header-baner-container
 odessa-life.od.ua##.wpb_wrapper > .code-block-3.code-block
 odessa-life.od.ua##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper
 imena.ua##section.widget:nth-of-type(1)
+
+! >>>
+! 
+! === "Disable your ad blocker" ===
+||1plus1.video/ab/
+! === Ads ===
+azs.uapetrol.com##div.sidebar__item:has(div.adv__exam)
+dovidka.biz.ua##div[class^="b-r b-r--"]
+guide.in.ua##div[class^="adsbygoogle-"]
+itsider.com.ua##div.code-block:has(ins.adsbygoogle)
+kg.ua##section[id^="block-block-"]:has(img.img-responsive)
+novosti-n.org##div.top-banner
+novosti-n.org##div[class^="banner-"]
+pisni.ua##div.header-banner
+playua.net##.right-a_dvert
+playua.net##div.a-google-ad
+playua.net##div.h-advert
+rivnepost.rv.ua##a.info
+rivnepost.rv.ua##div.header-info
+rivnepost.rv.ua##div[class^="r"]:has-text(загрузка...)
+root-nation.com##div.backstretch
+root-nation.com##div.tdi_53 > div.stretch_row_content.tdc-row
+shakhtar.com###sponsors-top
+shakhtar.com##div.sponsor-slider-wrapper
+shakhtar.com##div.sponsors
+uapress.kyiv.ua###sidebar
+vseazs.com##a.vseosago
+vseazs.com##p:has-text(Наші партнери)

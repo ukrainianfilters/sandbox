@@ -145,3 +145,45 @@ unilab.kiev.ua##.cookieWrapper
 forum.ukraine-gta.com.ua##.notice-content
 blum-stg.moonart.net.ua##.cookies-block
 brovary.net.ua##.moove-gdpr-align-center
+
+! >>>
+! 
+! === Cookie banners ===
+||c.evidon.com/sitenotice/evidon-banner.js$script,domain=ua.shell
+! https://tv.1kr.ua/
+1kr.ua##aside.c-cookies-box
+! https://history.1kr.ua/
+1kr.ua##div.cookies-box
+brander.ua##div.cookiePolicy
+carta.ua##div.carta-policy-bottom
+codan.com.ua##div.cookies-bar
+coolinfo.in.ua##aside.privacy-bar
+darmut.com##div.wd-cookies-popup
+e-likari.com.ua##div.cookie-notification
+ecomodule.com.ua##div.l-cookie
+fex.net##div.layout__cookies-policy-notification
+fint8.com##div.fs-cc-banner_component
+freelancehunt.com###cookie-bar
+hellohelen.com##div.cookie-box
+juscutum.com##div.popup__wrapper
+kivismart.com##div.cookie-offer
+learntoearn.global##div.dataProtectionSettingsWrapper
+legalitgroup.com##div.popup_cookies-banner
+maanimo.ua###cookies
+newproducts.com##div.cookies-banner
+ohi-s.com,seminarov.net##div.cookie-banner
+osvitoria.org##div.b-cookie
+poetryhome.ua###c_mess
+primary.org.ua###cookie-law-info-bar
+root-nation.com##div.hu-wrapper[aria-labelledby="hu-cookies-notice-message"]
+shop.shakhtar.com###klaro
+steko.ua##div.cookie-disclaimer
+suspilne.media##div.cookies-popup-suspilne
+times.zt.ua###eu-cookie-bar
+travel-guide.in.ua##div.cookie-message-alert
+webspark.ua##div.cookie-popup
+winstore.com.ua##div.cookie_block
+zadarma.com##div.cookie-tooltip
+zillya.ua###gdpr-cookie-message
+! === Other ===
+kg.ua###slidebox45
