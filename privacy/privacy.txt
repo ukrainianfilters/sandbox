@@ -11,3 +11,12 @@
 ! Sinoptik
 brovary.net.ua##div#SinoptikInformer
 brovary.net.ua##.elementor-widget-smartmag-heading:has-text(Погода)
+
+! >>>
+! 
+! === Comments ===
+coolinfo.in.ua##div.entry-sec.comment-box-wrap
+root-nation.com##div.comments
+uaprogaming.com.ua##div.comments-area
+! === Sinoptik ===
+times.zt.ua##div#SinoptikInformer
