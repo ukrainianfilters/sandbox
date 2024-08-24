@@ -25,3 +25,6 @@ times.zt.ua##div#SinoptikInformer
 ! 
 ! === connect.facebook.net ===
 ||connect.facebook.net^$third-party,domain=bihus.info
+! === Comments ===
+minfin.com.ua###gotoComment
+minfin.com.ua##span.write-comments
