@@ -187,3 +187,8 @@ zadarma.com##div.cookie-tooltip
 zillya.ua###gdpr-cookie-message
 ! === Other ===
 kg.ua###slidebox45
+
+! >>>
+! 
+! === Cookie banners ===
+nic.ua##div.cookie-alert
