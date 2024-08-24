@@ -78,3 +78,4 @@ forum.finance.ua##td.h-adv
 forum.finance.ua##div.bottom_banner
 miniaylo.finance.ua##div.minfin-banner
 finance.ua##div.h-market-block_left > div:has(a[href])
+minfin.com.ua###special-product-offer
