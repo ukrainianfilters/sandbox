@@ -60,3 +60,21 @@ shakhtar.com##div.sponsors
 uapress.kyiv.ua###sidebar
 vseazs.com##a.vseosago
 vseazs.com##p:has-text(Наші партнери)
+
+! >>>
+! 
+! === Ads ===
+||5.ua/js/banner/$script,domain=5.ua
+bihus.info##div.r-tram_wrap
+sportarena.com##.advertisment-events
+sportarena.com##div.widget_text:has(ins.adsbygoogle)
+sportarena.com##div.clr:has(ins.adsbygoogle)
+sportarena.com##span.adv
+news.finance.ua##div.AdvertisingBannerStyles__Wrapper-sc-1h6x2k4-0
+finance.ua##div[id^="banner-zone-"]
+finance.ua##div.b-container-sticky-banner
+forum.finance.ua###sticky-wrapper
+forum.finance.ua##td.h-adv
+forum.finance.ua##div.bottom_banner
+miniaylo.finance.ua##div.minfin-banner
+finance.ua##div.h-market-block_left > div:has(a[href])
