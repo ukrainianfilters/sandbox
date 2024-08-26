@@ -28,3 +28,8 @@ times.zt.ua##div#SinoptikInformer
 ! === Comments ===
 minfin.com.ua###gotoComment
 minfin.com.ua##span.write-comments
+
+! >>>
+! 
+! === connect.facebook.net ===
+||connect.facebook.net^$third-party,domain=gsminfo.com.ua
