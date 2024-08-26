@@ -192,3 +192,13 @@ kg.ua###slidebox45
 ! 
 ! === Cookie banners ===
 nic.ua##div.cookie-alert
+
+! >>>
+! 
+! === Cookie banners ===
+funduk.ua##div.cookie_inform
+gorsovet.com.ua##div.js-cookie-consent
+kernel.ua##div.fancybox-container
+landrover.ua##section.jlr-cookie-banner
+columbia.ua###cookies-panel
+mvs.gov.ua##div.cookie-message
