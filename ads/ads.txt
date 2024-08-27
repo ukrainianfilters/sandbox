@@ -79,3 +79,18 @@ forum.finance.ua##div.bottom_banner
 miniaylo.finance.ua##div.minfin-banner
 finance.ua##div.h-market-block_left > div:has(a[href])
 minfin.com.ua###special-product-offer
+
+! >>>
+! 
+! === Ads ===
+||a5.overclockers.ua^
+cloudgaminghub.net.ua##div.banner-promotions-wrapper
+cloudgaminghub.net.ua##div.newsphere-widget.widget:has(figure.wp-block-image)
+ttt.ua##div.page__big-banner
+vynnyky-visnyk.com.ua##div.wpb_content_element:has(figure.wpb_wrapper)
+vynnyky-visnyk.com.ua##.page_margin_top.box_header:style(margin-top: unset !important)
+overclockers.ua##div[class^="ad_slot"]
+ranok.ictv.ua##div.partner-news
+realist.online##div.advertising
+gsminfo.com.ua##div.code-block:has(ins.adsbygoogle)
+gsminfo.com.ua##div.widget:has(ins.adsbygoogle)
