@@ -202,3 +202,9 @@ kernel.ua##div.fancybox-container
 landrover.ua##section.jlr-cookie-banner
 columbia.ua###cookies-panel
 mvs.gov.ua##div.cookie-message
+
+! >>>
+! 
+! === Cookie banners ===
+songs.in.ua###eu-cookie-law
+aprint.store##div.consent-banner-root
