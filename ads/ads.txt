@@ -94,3 +94,12 @@ ranok.ictv.ua##div.partner-news
 realist.online##div.advertising
 gsminfo.com.ua##div.code-block:has(ins.adsbygoogle)
 gsminfo.com.ua##div.widget:has(ins.adsbygoogle)
+
+! >>>
+! 
+! === Ads ===
+||misto.travel/templates/js/promowghot.js$script,domain=novynarnia.com
+kagarlyk.city##div.mc-banner-placeholder
+kagarlyk.city##div.mc-top-banner
+thebuchacity.com##div.td_block_wrap:has(a.td_spot_img_all)
+varosh.com.ua##div.adv
