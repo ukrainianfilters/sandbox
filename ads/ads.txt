@@ -103,3 +103,13 @@ kagarlyk.city##div.mc-banner-placeholder
 kagarlyk.city##div.mc-top-banner
 thebuchacity.com##div.td_block_wrap:has(a.td_spot_img_all)
 varosh.com.ua##div.adv
+
+
+! >>>
+! 
+! === Ads ===
+mind.ua###promo-catfish
+gordonua.com##div[data-action="banners"]
+gordonua.com##div.advertising-news-600
+ukrdz.in.ua##section.widget_text.widget:has(script)
+glamour.kyiv.ua##div.textwidget
