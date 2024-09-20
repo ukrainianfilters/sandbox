@@ -113,3 +113,21 @@ gordonua.com##div[data-action="banners"]
 gordonua.com##div.advertising-news-600
 ukrdz.in.ua##section.widget_text.widget:has(script)
 glamour.kyiv.ua##div.textwidget
+
+! >>>
+! 
+! === Ads ===
+teg.com.ua,animal.in.ua,tsikavi-fakty.com.ua##div.code-block:has(ins.adsbygoogle)
+moyaosvita.com.ua##div[data-index]:has(ins.adsbygoogle)
+moyaosvita.com.ua##div.widget_block:has(ins.adsbygoogle)
+rayon.in.ua##div.slider-main:has(ins.adsbygoogle)
+rayon.in.ua##div.slider-main:has(div.slick-list)
+tsikavi-fakty.com.ua##div.topad
+tsikavi-fakty.com.ua##div.bottomad
+tsikavi-fakty.com.ua##div.widget:has(ins.adsbygoogle)
+tsikavi-fakty.com.ua##div.widget:has(script[src^="https://jsc.mgid.com/"])
+yak-zrobyty.in.ua##div.b-r
+yak-zrobyty.in.ua##div.textwidget:has(ins.adsbygoogle)
+pidruchnyk.com.ua###sidebar
+pidruchnyk.com.ua##div[id^="admixer_"]
+urok.in.ua##p:has(ins.adsbygoogle)
