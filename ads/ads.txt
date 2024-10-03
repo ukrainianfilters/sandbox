@@ -151,5 +151,5 @@ uspih.in.ua##p:has(script[src*="//jsc.idealmedia.io"])
 forex.ua##div.ads-after
 tvoemisto.tv##div[id^="bannplace_"]:has(script):remove()
 tvoemisto.tv##div.ukrnetlinks
-kiev.sq.com.ua##sq-ad-banners
-kiev.sq.com.ua##a.highlighted
+sq.com.ua##sq-ad-banners
+sq.com.ua##a.highlighted
