@@ -131,3 +131,25 @@ yak-zrobyty.in.ua##div.textwidget:has(ins.adsbygoogle)
 pidruchnyk.com.ua###sidebar
 pidruchnyk.com.ua##div[id^="admixer_"]
 urok.in.ua##p:has(ins.adsbygoogle)
+
+! >>>
+! 
+! === Ads ===
+||informator.ua/js/frontend/ad-loaders/$script,1p
+! https://rud.ua/consumer/
+rud.ua##a.branding__link
+gurman.co.ua,museumkiev.org,sat.net.ua##div:has(> ins.adsbygoogle):remove()
+proslav.info##div.jeg_ad
+marketer.ua,forex.ua##div:has(> div > ins.adsbygoogle):remove()
+risu.ua##div.grid-x > div > div:has-text(загрузка...)
+informator.ua##div:has(> script[src^="/js/frontend/ad-loaders/"])
+proidei.com##div.ads-widget-block
+ukranews.com##div[class*="-banner"]
+founder.ua##div.boxWidgetBanner
+uspih.in.ua##p:has(script[src*="//jsc.mgid.com"])
+uspih.in.ua##p:has(script[src*="//jsc.idealmedia.io"])
+forex.ua##div.ads-after
+tvoemisto.tv##div[id^="bannplace_"]:has(script):remove()
+tvoemisto.tv##div.ukrnetlinks
+sq.com.ua##sq-ad-banners
+sq.com.ua##a.highlighted

@@ -208,3 +208,9 @@ mvs.gov.ua##div.cookie-message
 ! === Cookie banners ===
 songs.in.ua###eu-cookie-law
 aprint.store##div.consent-banner-root
+
+! >>>
+! 
+! === Cookie banners ===
+lviv.travel##div.c-accept-message
+founder.ua##div.boxCookies
