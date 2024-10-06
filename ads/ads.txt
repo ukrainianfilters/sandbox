@@ -153,3 +153,17 @@ tvoemisto.tv##div[id^="bannplace_"]:has(script):remove()
 tvoemisto.tv##div.ukrnetlinks
 sq.com.ua##sq-ad-banners
 sq.com.ua##a.highlighted
+
+! >>>
+!
+! === Ads ===
+protocol.ua##div[url*="/ajaxreq/clickbaner/"]
+protocol.ua##.section9_thirdBlock
+dengi.ua##div.banner
+dengi.ua##div[id^="zone_"]
+radiotrek.rv.ua##.ad
+radiotrek.rv.ua##div#ads
+napensii.ua,bibliotech.com.ua,pingvin.pro,sharkus.top##div:has(> ins.adsbygoogle):remove()
+bigkyiv.com.ua##div.ads
+pingvin.pro##div:has(> div > a[href="https://pingvin.pro/category/blogy/offers"])
+inshe.tv##div.jeg_ad:remove()

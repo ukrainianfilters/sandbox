@@ -214,3 +214,9 @@ aprint.store##div.consent-banner-root
 ! === Cookie banners ===
 lviv.travel##div.c-accept-message
 founder.ua##div.boxCookies
+
+! >>>
+!
+! === Cookie banners ===
+ukrzoloto.ua##div#cban
+uatv.ua##div.privacy-policy-block
