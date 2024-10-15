@@ -33,3 +33,9 @@ minfin.com.ua##span.write-comments
 ! 
 ! === connect.facebook.net ===
 ||connect.facebook.net^$third-party,domain=gsminfo.com.ua
+
+! >>>
+! 
+! === Tracking pixel ===
+! https://stand-with-ukraine.pp.ua
+||vsh.pp.ua/pixel.js$script
