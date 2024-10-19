@@ -167,3 +167,30 @@ napensii.ua,bibliotech.com.ua,pingvin.pro,sharkus.top##div:has(> ins.adsbygoogle
 bigkyiv.com.ua##div.ads
 pingvin.pro##div:has(> div > a[href="https://pingvin.pro/category/blogy/offers"])
 inshe.tv##div.jeg_ad:remove()
+
+! >>>
+! 
+! === Ads ===
+! https://journal.ilounge.ua/
+ilounge.ua##div[style]:has(> ins.adsbygoogle):remove()
+pogliad.ua##div:has(> div > ins.adsbygoogle):remove()
+ua-vestnik.com##div:has(> figure > a[href*="myblogshop.top"])
+sport.ua##div:has(> div > table:has(a[href*="sportlinks.info"]))
+magazine.com.ua##div[align]:has(> div > ins.adsbygoogle):remove()
+magazine.com.ua##div.sppb-addon-wrapper:has(ins.adsbygoogle):remove()
+opentalk.org.ua##div:has(> div.ad56)
+osvita.ua##div[id^="admixer_"]
+zno.osvita.ua##div:has(> div.banner-block)
+zno.osvita.ua##div:has(> div.banner)
+learn-english.net.ua##div[class^="b-r b-r--"]:remove()
+learn-english.net.ua,blogchain.com.ua##div:has(> div > ins.adsbygoogle):remove()
+esc.lviv.ua##div:has(> div > ins.adsbygoogle):remove()
+esc.lviv.ua##div.jeg_ad
+greenforest.com.ua##a[href]:has([src^="/public/user_files/banners"])
+greenforest.com.ua##div.banner-place
+mykniga.com.ua##div[class^="b-r b-r--"]:remove()
+autoconsulting.com.ua##td:has(> ins.adsbygoogle):remove()
+autoconsulting.com.ua##a:has(img[src*="c.bigmir.net"])
+tribun.com.ua##div:has(> div.banner)
+zhenskiy.kyiv.ua##aside:has(div > a[href*="myblogshop.top"])
+zhenskiy.kyiv.ua##div.elementor:has(div > div > a[href*="myblogshop.top"])
