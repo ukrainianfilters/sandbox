@@ -39,3 +39,12 @@ minfin.com.ua##span.write-comments
 ! === Tracking pixel ===
 ! https://stand-with-ukraine.pp.ua
 ||vsh.pp.ua/pixel.js$script
+
+! >>>
+! 
+! === Analytics / Tracking ===
+! https://speakwell.ua
+||enguide.ua/analytics.js
+||forum.osvita.ua/clicks/track
+||stat.board.com.ua^
+||moonanime.art/api/stats/
