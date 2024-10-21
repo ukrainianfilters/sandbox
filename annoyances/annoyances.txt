@@ -234,3 +234,11 @@ mills.com.ua##div.modal__accept__cookies
 ilounge.ua##div.signup-form-launcher
 opentalk.org.ua##div.holler-popup
 kontramarka.ua##div.promo-line
+
+! >>>
+! 
+! === Cookie banners ===
+tydyvy.com###popupContainer
+ap-bank.com##div.b-cookieAccept
+accordbank.com.ua###setcookie-agreement
+kredobank.com.ua##div.cookies-modal
