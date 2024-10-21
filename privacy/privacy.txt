@@ -48,3 +48,34 @@ minfin.com.ua##span.write-comments
 ||forum.osvita.ua/clicks/track
 ||stat.board.com.ua^
 ||moonanime.art/api/stats/
+
+! >>>
+! 
+! === Analytics / Tracking ===
+! https://mail.ukr.net/desktop
+||accounts.ukr.net/api/v1/token/analytics/
+
+! https://www.ukr.net/
+||ukr.net/_events/
+||upst.fwdcdn.com/img/grey-pix.gif$image
+||ukr.net/track/
+||upst.fwdcdn.com/js/8/track_events.js$script
+! Викликається при переході на посилання. Нариклад, Rozetka
+||mod.ukr.net/favorites/counter.php$script
+
+! https://ua.sinoptik.ua/
+||sinoptik.ua/stats/
+
+! https://kasta.ua/uk/m/halloween-2024/
+||cdn.kasta.ua/static/img/empty_pixel.png$image
+||api.kasta.ua/api/v2/chua
+
+! https://www.work.ua
+||work.ua/analytics/
+||st.work.ua/js/send_stat-min_1685340621.js$script
+||work.ua/_data/counter.php$script
+||st.work.ua/js/banners/global-counter-min_1631780531.js$script
+||st.work.ua/js/site_counters-min_1642158067.js$script
+
+! https://www.work.ua/jobs/by-company/185937/
+||work.ua/social/fb-counter/
