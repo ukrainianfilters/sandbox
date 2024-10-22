@@ -194,3 +194,12 @@ autoconsulting.com.ua##a:has(img[src*="c.bigmir.net"])
 tribun.com.ua##div:has(> div.banner)
 zhenskiy.kyiv.ua##aside:has(div > a[href*="myblogshop.top"])
 zhenskiy.kyiv.ua##div.elementor:has(div > div > a[href*="myblogshop.top"])
+
+! >>>
+! 
+! === Ads ===
+! https://tydyvy.com/t/movie2.0
+tydyvy.com##div#jarvis-banner
+
+! https://mail.ukr.net/desktop
+||safeview.ukr.net/frame/desktop-top-banner.html$subdocument
