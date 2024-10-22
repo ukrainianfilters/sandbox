@@ -60,7 +60,7 @@ minfin.com.ua##span.write-comments
 ||upst.fwdcdn.com/img/grey-pix.gif$image
 ||ukr.net/track/
 ||upst.fwdcdn.com/js/8/track_events.js$script
-! Викликається при переході на посилання. Нариклад, Rozetka
+! Викликається при переході на посилання. Наприклад, Rozetka
 ||mod.ukr.net/favorites/counter.php$script
 
 ! https://ua.sinoptik.ua/
