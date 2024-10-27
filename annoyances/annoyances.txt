@@ -242,3 +242,8 @@ tydyvy.com###popupContainer
 ap-bank.com##div.b-cookieAccept
 accordbank.com.ua###setcookie-agreement
 kredobank.com.ua##div.cookies-modal
+
+! >>>
+! 
+! === Cookie banner ===
+mriia.gov.ua##app-cookie-dialog
