@@ -203,3 +203,18 @@ tydyvy.com##div#jarvis-banner
 
 ! https://mail.ukr.net/desktop
 ||safeview.ukr.net/frame/desktop-top-banner.html$subdocument
+
+! >>>
+! 
+! === Ads ===
+! https://patient-docs.com/
+! Банер видно, якщо увійти в обліковий запис
+patient-docs.com###sidebar_banner
+||patient-docs.com/theme/js/ads.js
+
+! https://druzy.com.ua/
+druzy.com.ua##div:has(> ins.adsbygoogle):remove()
+
+! https://uahistory.co/
+uahistory.co##div:has(> ins.adsbygoogle):remove()
+||agenteimmobiliare.info^

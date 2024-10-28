@@ -79,3 +79,16 @@ minfin.com.ua##span.write-comments
 
 ! https://www.work.ua/jobs/by-company/185937/
 ||work.ua/social/fb-counter/
+
+! >>>
+! 
+! === Analytics ===
+! https://ideabank.ua/uk
+||ideabank.ua/analytics.js
+
+! https://patient-docs.com/
+||patient-docs.com/ajax/metric.php
+||patient-docs.com/theme/js/metric.js
+
+! https://e-zapis.com/
+||e-zapis.com/ajax/metric.php
