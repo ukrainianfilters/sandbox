@@ -218,3 +218,45 @@ druzy.com.ua##div:has(> ins.adsbygoogle):remove()
 ! https://uahistory.co/
 uahistory.co##div:has(> ins.adsbygoogle):remove()
 ||agenteimmobiliare.info^
+
+! >>>
+! 
+! === Ads ===
+! https://daytoday.ua/
+daytoday.ua##div[id^="dayto-"]:has(> ins.adsbygoogle):remove()
+
+! https://www.stopcor.org/
+stopcor.org##aside.videoOfDay
+stopcor.org##aside.banner
+stopcor.org##div.idealmedia
+
+! https://maximum.fm/
+maximum.fm##div.adv-container
+maximum.fm##div.partner-recomendation
+maximum.fm##div:has(> div[id^="div-gpt-ad-"])
+
+! https://chas.news/
+chas.news##div[id^="admixer_"]
+
+! https://internetua.com/
+internetua.com##div.top-ban
+internetua.com##div.left-ban
+internetua.com##div.banner2
+internetua.com##div[id^="adex-jsunit-"]
+internetua.com##div[id^="admixer_"]
+
+! https://meteo.ua/
+meteo.ua##div:has(> div > ins.adsbygoogle):remove()
+meteo.ua##div[data-sender="admixer"]:remove()
+
+! https://www.meteoprog.com/
+meteoprog.com##div[id^="mp_banner_"]
+
+! https://meteopost.com/
+meteopost.com##div:has(> ins.adsbygoogle):remove()
+
+! https://mobanking.com.ua/
+mobanking.com.ua##div:has(> ins.adsbygoogle):remove()
+
+! https://monobankinfo.com.ua/
+monobankinfo.com.ua##aside:has(> div > ins.adsbygoogle):remove()
