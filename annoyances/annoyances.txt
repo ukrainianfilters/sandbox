@@ -247,3 +247,9 @@ kredobank.com.ua##div.cookies-modal
 ! 
 ! === Cookie banner ===
 mriia.gov.ua##app-cookie-dialog
+
+! >>>
+! 
+! === Cookie banner ===
+! https://turbogroshi.com.ua/
+turbogroshi.com.ua##div.modal-cookies.modal
