@@ -92,3 +92,10 @@ minfin.com.ua##span.write-comments
 
 ! https://e-zapis.com/
 ||e-zapis.com/ajax/metric.php
+
+! >>>
+! 
+! === Analytics ===
+! https://hikka.io/
+! Plausible Analytics
+||hikka.io/js/plausible.local.js$script
