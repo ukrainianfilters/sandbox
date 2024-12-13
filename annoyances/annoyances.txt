@@ -253,3 +253,18 @@ mriia.gov.ua##app-cookie-dialog
 ! === Cookie banner ===
 ! https://turbogroshi.com.ua/
 turbogroshi.com.ua##div.modal-cookies.modal
+
+! >>>
+! 
+! === Cookie banners ===
+! https://ottry.com
+ottry.com###cc--main
+
+! https://kanaldim.tv
+kanaldim.tv##div.privacy-policy-block
+
+! https://buki.com.ua
+buki.com.ua##div.styles_bannerWrapper__oPaZz
+
+! https://mod.gov.ua
+mod.gov.ua##div.fixed.bottom-0

@@ -99,3 +99,20 @@ minfin.com.ua##span.write-comments
 ! https://hikka.io/
 ! Plausible Analytics
 ||hikka.io/js/plausible.local.js$script
+
+! >>>
+! 
+! === Analytics ===
+! https://megogo.net
+||et.megogo.net^
+
+! https://buki.com.ua
+! Facebook Pixel
+||buki.com.ua/scripts/pixel.js$script
+
+! https://kg.ua
+! Віджет погоди
+||app1.weatherwidget.org^$script,domain=kg.ua
+
+! https://vezha.ua
+vezha.ua##div.middle_banner

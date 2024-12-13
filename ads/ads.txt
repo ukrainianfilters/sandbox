@@ -260,3 +260,19 @@ mobanking.com.ua##div:has(> ins.adsbygoogle):remove()
 
 ! https://monobankinfo.com.ua/
 monobankinfo.com.ua##aside:has(> div > ins.adsbygoogle):remove()
+
+! >>>
+! 
+! === Ads ===
+! https://informator.ua
+||ads.informator.ua^
+
+! https://wz.lviv.ua
+wz.lviv.ua##div.uk-visible\@m
+
+! https://ternopoliany.te.ua
+ternopoliany.te.ua##div:has(> div.reklamatop)
+ternopoliany.te.ua##div.rekinfoblock1top
+ternopoliany.te.ua##div.rekinfoblock2top
+ternopoliany.te.ua##div:has(> div.rek)
+ternopoliany.te.ua##div.rek760
