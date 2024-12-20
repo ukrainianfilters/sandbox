@@ -116,3 +116,16 @@ minfin.com.ua##span.write-comments
 
 ! https://vezha.ua
 vezha.ua##div.middle_banner
+
+! >>>
+! 
+! https://gazeta-misto.te.ua
+! Віджет Sinoptik
+gazeta-misto.te.ua##div.widget:has(div#SinoptikInformer)
+
+! Коментарі Facebook
+gazeta-misto.te.ua##div.jnews_comment_container
+
+! https://uoi.eolymp.space
+! Plausible Analytics
+||uoi.eolymp.space/measure/
