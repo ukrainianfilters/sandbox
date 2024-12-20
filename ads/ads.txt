@@ -276,3 +276,53 @@ ternopoliany.te.ua##div.rekinfoblock1top
 ternopoliany.te.ua##div.rekinfoblock2top
 ternopoliany.te.ua##div:has(> div.rek)
 ternopoliany.te.ua##div.rek760
+
+! >>>
+! 
+! === Ads ===
+! https://www.dsnews.ua
+dsnews.ua##div[id^="adpartner"]
+
+! https://www.dialog.ua
+dialog.ua##div.banner
+dialog.ua##div.news-content-ad
+
+! https://1kr.ua
+1kr.ua##div.dop_box
+1kr.ua##div:has(> ins.adsbygoogle)
+
+! https://zz.te.ua
+zz.te.ua##div[id^="advads-"]
+
+! https://www.kinofilms.ua
+kinofilms.ua##div#KFheader-adtop
+kinofilms.ua##aside:has(> div#banner)
+kinofilms.ua##aside:has(> ins.adsbygoogle)
+kinofilms.ua##div[id^="admixer_"]
+kinofilms.ua###sitewrap:style(background: none !important)
+kinofilms.ua##a:has(> img.brandtopimg)
+
+! https://1plus1.ua
+1plus1.ua##div.banner-catfish
+
+! https://exo.in.ua
+exo.in.ua##div:has(> a > img[title])
+
+! https://gazeta-misto.te.ua
+gazeta-misto.te.ua##div.jeg_ad
+
+! https://uman24.org.ua
+uman24.org.ua##div.adsgoogle
+uman24.org.ua##div.widget_custom_html:has(ins.adsbygoogle)
+uman24.org.ua##div.sample-posts
+
+! https://nezhatin.com.ua
+||infocode.tech^
+||informer.link^
+||newscode.online^
+nezhatin.com.ua##aside:has(div.reklammma)
+nezhatin.com.ua##aside.widget:has(p > img)
+nezhatin.com.ua##aside.widget:has-text(загрузка...)
+nezhatin.com.ua##div.entry-content > p:has(img)
+nezhatin.com.ua##p:has(> ins.adsbygoogle)
+nezhatin.com.ua##div#primary > div[id]:has-text(загрузка...)
