@@ -131,7 +131,7 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ||uoi.eolymp.space/measure/
 
 ! 
-! === Analytics ===
+! === Analytics / Tracking ===
 ! https://eva.ua
 ||data-api.eva.ua^
 
@@ -142,6 +142,7 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ||rest.comfy.ua^
 
 ! https://elmir.ua
+! Tracking pixels
 ||elmir.ua/response/th.php
 ||elmir.ua/response/update_basket.php
 
