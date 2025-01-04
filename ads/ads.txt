@@ -326,3 +326,14 @@ nezhatin.com.ua##aside.widget:has-text(загрузка...)
 nezhatin.com.ua##div.entry-content > p:has(img)
 nezhatin.com.ua##p:has(> ins.adsbygoogle)
 nezhatin.com.ua##div#primary > div[id]:has-text(загрузка...)
+
+! 
+! === Ads ===
+! https://ek.ua
+ek.ua##div.banner-topline
+ek.ua##div.bot-brand
+
+! https://obyava.ua
+||obyava.ua/js/advert.js
+obyava.ua##div.list-header-banner
+obyava.ua##div.classified-top-banner

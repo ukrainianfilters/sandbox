@@ -129,3 +129,28 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ! https://uoi.eolymp.space
 ! Plausible Analytics
 ||uoi.eolymp.space/measure/
+
+! 
+! === Analytics / Tracking ===
+! https://eva.ua
+||data-api.eva.ua^
+
+! https://varus.ua
+||magento-kibana.varus.ua^
+
+! https://comfy.ua
+||rest.comfy.ua^
+
+! https://elmir.ua
+! Tracking pixels
+||elmir.ua/response/th.php
+||elmir.ua/response/update_basket.php
+
+! === Other ===
+! https://eva.ua
+! MultiSearch Tracker
+||eva.ua/assets/scripts/multisearch-tracker.js
+
+! https://comfy.ua
+! Google Tag Manager
+||sst.comfy.ua^
