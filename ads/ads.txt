@@ -338,6 +338,7 @@ ek.ua##div.bot-brand
 obyava.ua##div.list-header-banner
 obyava.ua##div.classified-top-banner
 
+! >>>
 ! 
 ! === Ads ===
 ! https://gepur.com
