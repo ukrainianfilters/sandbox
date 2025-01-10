@@ -155,7 +155,8 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ! Google Tag Manager
 ||sst.comfy.ua^
 
-!
+! >>>
+! 
 ! === Analytics / Tracking ===
 ! https://telemart.ua
 ||cralodas.com.ua^
