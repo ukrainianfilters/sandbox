@@ -154,3 +154,20 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ! https://comfy.ua
 ! Google Tag Manager
 ||sst.comfy.ua^
+
+!
+! === Analytics / Tracking ===
+! https://telemart.ua
+||cralodas.com.ua^
+
+! https://trueprice.ua
+||api.ipgeolocation.io^$domain=trueprice.ua
+
+! === Logging / error tracking ===
+! https://gepur.com
+||gepur.com/logs
+||gepur.com/bot-notify
+
+! === Sinoptik widget ===
+! https://www.volynpost.com
+volynpost.com##div#SinoptikInformer
