@@ -337,3 +337,45 @@ ek.ua##div.bot-brand
 ||obyava.ua/js/advert.js
 obyava.ua##div.list-header-banner
 obyava.ua##div.classified-top-banner
+
+! >>>
+! 
+! === Ads ===
+! https://gepur.com
+! tags.creativecdn.com
+||gepur.com/js/rtbhouse.js
+
+! http://slovopedia.org.ua
+slovopedia.org.ua##div.word_adv
+
+! https://uanews.net
+uanews.net##div:has(> ins.adsbygoogle)
+
+! https://studopedia.com.ua
+studopedia.com.ua##div:has(> div.adBanner)
+studopedia.com.ua##noindex:has(ins.adsbygoogle)
+studopedia.com.ua##center:has(> ins.adsbygoogle)
+
+! https://nauka.ua
+nauka.ua##div:has(> div.banner-wrapper)
+nauka.ua##div.banner-vertical
+
+! http://hrinchenko.com
+hrinchenko.com##div.green_add
+hrinchenko.com##div[class^="adsense_"]
+
+! https://provce.ck.ua
+provce.ck.ua##div[class*="top_"][class*="x"]
+
+! https://ukranews.com
+ukranews.com##noindex:has(div.desktop-banner)
+ukranews.com##div.ad-v2
+ukranews.com##noindex:has(div.ad-v2)
+
+! https://www.volynpost.com
+volynpost.com##div.banner-label
+volynpost.com##div[class^="big-data banner-"]
+
+! https://vcf.vn.ua
+vcf.vn.ua##aside.widget:has(> ins.adsbygoogle)
+vcf.vn.ua##div:has(> ins.adsbygoogle)
