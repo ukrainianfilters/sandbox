@@ -268,3 +268,12 @@ buki.com.ua##div.styles_bannerWrapper__oPaZz
 
 ! https://mod.gov.ua
 mod.gov.ua##div.fixed.bottom-0
+
+! >>>
+! 
+! === Cookie banner ===
+! https://ukraina.info
+ukraina.info##div.CookieConsent
+! === Other ===
+! https://ukraina.info
+ukraina.info##div.x-iaky6s
