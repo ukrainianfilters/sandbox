@@ -379,3 +379,17 @@ volynpost.com##div[class^="big-data banner-"]
 ! https://vcf.vn.ua
 vcf.vn.ua##aside.widget:has(> ins.adsbygoogle)
 vcf.vn.ua##div:has(> ins.adsbygoogle)
+
+! >>>
+! 
+! === Ads ===
+! https://eneyida.tv
+! https://uaserials.pro
+||stat.hdvbua.pro^
+||cdn.hdvbua.pro/amedia/
+
+! https://uaserials.pro
+uaserials.pro##div.rek1
+
+! https://ufdub.com
+ufdub.com##aside.side > a[href]:has(img[src])
