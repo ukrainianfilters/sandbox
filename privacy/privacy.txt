@@ -172,3 +172,12 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ! === Sinoptik widget ===
 ! https://www.volynpost.com
 volynpost.com##div#SinoptikInformer
+
+! >>>
+! 
+! === Tracking pixel ===
+! https://gameua.com.ua
+||gameua.com.ua/wp-content/themes/breek/assets/images/transparent.gif
+! === Other ===
+! https://serialno.tv
+||zcode17.com^
