@@ -393,3 +393,34 @@ uaserials.pro##div.rek1
 
 ! https://ufdub.com
 ufdub.com##aside.side > a[href]:has(img[src])
+
+! >>>
+! 
+! === Ads ===
+! https://interes-fakti.com
+interes-fakti.com##div:has(> ins.adsbygoogle)
+
+! https://novyny.pro
+novyny.pro##div.adv
+novyny.pro##div.banner_container
+novyny.pro##div#idealmedia
+
+! https://cikavopro.com
+cikavopro.com##div.pidpost
+cikavopro.com##ins#adsense
+
+! https://kyivmaps.com
+kyivmaps.com##div[class^="section-google"]
+
+! https://kyiv-day.com
+kyiv-day.com##div.merimag-ad-section
+kyiv-day.com##div.widget_text:has(script[src*="/pagead/js/adsbygoogle.js"])
+kyiv-day.com##div.elementor-element:has(script[src*="/pagead/js/adsbygoogle.js"])
+kyiv-day.com##div.elementor-element[data-widget_type="image.default"]:has(div > a > img[alt*="baner"])
+kyiv-day.com##div.merimag-widget-container:has(a > img[alt*="baner"])
+
+! https://www.poznavayka.org
+poznavayka.org##aside.widget:has(div > div.rek_bok)
+
+! https://www.miyklas.com.ua
+miyklas.com.ua##div.sc-wrap
