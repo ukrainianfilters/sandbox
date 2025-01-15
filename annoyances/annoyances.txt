@@ -277,3 +277,9 @@ ukraina.info##div.CookieConsent
 ! === Other ===
 ! https://ukraina.info
 ukraina.info##div.x-iaky6s
+
+! >>>
+! 
+! === Telegram popup ===
+! https://kyiv-day.com
+kyiv-day.com##div.telegram_window--active
