@@ -181,3 +181,20 @@ volynpost.com##div#SinoptikInformer
 ! === Other ===
 ! https://serialno.tv
 ||zcode17.com^
+
+! >>>
+! 
+! === Analytics ===
+! https://mate.academy
+||mate.academy/dwh
+! Amplitude.com
+||mate.academy/amplitude
+
+! https://prometheus.org.ua
+||prometheus.org.ua/wp-content/themes/prometheus-new/assets/js/analytics.js
+
+! === Error tracking ===
+! https://kiev.itstep.org
+! https://cloud.itstep.org
+! Sentry
+||itstep.org/js/sentry.js
