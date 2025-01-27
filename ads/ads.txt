@@ -424,3 +424,34 @@ poznavayka.org##aside.widget:has(div > div.rek_bok)
 
 ! https://www.miyklas.com.ua
 miyklas.com.ua##div.sc-wrap
+
+! >>>
+! 
+! === Ads ===
+! https://womo.ua
+womo.ua##div[id^="admixer_"]
+
+! https://life.kyiv.ua
+life.kyiv.ua##div:has(> ins.adsbygoogle)
+
+! https://sum.in.ua
+sum.in.ua##div.ad
+
+! https://forum.lvivport.com
+! https://volkswagen.lviv.ua
+lvivport.com,volkswagen.lviv.ua##div.topbanner
+lvivport.com,volkswagen.lviv.ua##div.adlinks
+lvivport.com,volkswagen.lviv.ua##div.section:has(ins.adsbygoogle)
+lvivport.com,volkswagen.lviv.ua##center:has(> ins.adsbygoogle)
+lvivport.com,volkswagen.lviv.ua##div[class^="categoryad"]
+
+! https://zno.osvita.ua
+! Щоби побачити "div.artbanner", потрібно розпочати будь-який тест
+zno.osvita.ua##div.artbanner
+zno.osvita.ua##div[id^="admixer_"]
+
+! https://ukr-mova.in.ua
+ukr-mova.in.ua##div:has(> div.container > ins.adsbygoogle)
+
+! https://popolsku.co.ua
+popolsku.co.ua##div.sidebar:has(> div.ad-300)
