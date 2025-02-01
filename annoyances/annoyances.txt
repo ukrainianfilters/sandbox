@@ -283,3 +283,23 @@ ukraina.info##div.x-iaky6s
 ! === Telegram popup ===
 ! https://kyiv-day.com
 kyiv-day.com##div.telegram_window--active
+
+! >>>
+! 
+! === Cookie banners ===
+! https://mizol.ua
+mizol.ua##div.soglashenie
+mizol.ua##div.soglashenie_back
+
+! https://friendsclub.com.ua
+friendsclub.com.ua##div.src-components-block-CookiesBanner-CookiesBanner__CookiesBanner--39aHY
+
+! https://www.ecommercebridge.co.ua
+ecommercebridge.co.ua##div#cc-main
+
+! https://gymbeam.ua
+gymbeam.ua##div:has(> div > a[title="privacy policy"])
+
+! === Annoying banner ===
+! https://ithillel.ua
+ithillel.ua##div.widget-sprint-magnet
