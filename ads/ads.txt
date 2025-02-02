@@ -455,3 +455,37 @@ ukr-mova.in.ua##div:has(> div.container > ins.adsbygoogle)
 
 ! https://popolsku.co.ua
 popolsku.co.ua##div.sidebar:has(> div.ad-300)
+
+! >>>
+! 
+! === Ads ===
+! https://tvorchist.will.cx.ua
+||clickua200.pp.ua^
+
+! https://infoit.com.ua
+infoit.com.ua##aside.widget:has(> center > ins.adsbygoogle)
+infoit.com.ua##center:has(> ins.adsbygoogle)
+
+! https://termin.in.ua
+termin.in.ua##div:has(> ins.adsbygoogle)
+termin.in.ua##aside:has(> div > ins.adsbygoogle)
+termin.in.ua##p:has(> ins.adsbygoogle)
+
+! https://scanprice.com.ua
+scanprice.com.ua##div:has(> ins.adsbygoogle)
+
+! https://www.epochtimes.com.ua
+epochtimes.com.ua##aside:has(> ins.adsbygoogle)
+epochtimes.com.ua##div:has(> ins.adsbygoogle)
+
+! https://itnet.com.ua
+itnet.com.ua##div.td-pb-span4:has(ins.adsbygoogle)
+itnet.com.ua##div[id^="adex-jsunit-"]
+
+! https://bucha.com.ua
+bucha.com.ua##div[class^="dle_b_google-d"]
+
+! https://contentwriter.com.ua/blog/
+contentwriter.com.ua##div.side-banner-carrier
+contentwriter.com.ua##div.side-banner
+contentwriter.com.ua##div.side-banner-training

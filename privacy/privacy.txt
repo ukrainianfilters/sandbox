@@ -198,3 +198,35 @@ volynpost.com##div#SinoptikInformer
 ! https://cloud.itstep.org
 ! Sentry
 ||itstep.org/js/sentry.js
+
+! >>>
+! 
+! === Tracking ===
+! https://apkcafe.com.ua
+||handler.wt0.me^
+||apkcafe.com.ua/stat/
+
+! https://ithillel.ua
+||rest.ithillel.ua/1.0/analytics/
+
+! https://bucha.com.ua
+||counter.mirohost.net^
+||bucha.com.ua/mirolog.js
+
+! https://locator.ua
+||locator.ua/report.php
+||locator.ua/js/stat.js
+||locator.ua/js/fingerprintjs2/
+
+! https://meridian.net.ua
+||pixel.lun.ua^
+
+! https://flatfy.ua
+||stargazer.lun.ua^
+
+! === GeoIP ===
+! https://ithillel.ua
+||api.ithillel.ua/feed/geoIp
+
+! https://friendsclub.com.ua
+||api.ipify.org^$third-party,domain=friendsclub.com.ua
