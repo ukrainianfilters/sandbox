@@ -303,3 +303,28 @@ gymbeam.ua##div:has(> div > a[title="privacy policy"])
 ! === Annoying banner ===
 ! https://ithillel.ua
 ithillel.ua##div.widget-sprint-magnet
+
+! >>>
+! 
+! === Cookie banners ===
+! https://ruport.com.ua
+ruport.com.ua##div.banner_area
+
+! https://smk-retail.com.ua
+smk-retail.com.ua##div.cookies_accept_popup
+
+! https://greenpost.ua
+greenpost.ua##div.cookie-consent-popup
+
+! https://yakty.com.ua
+yakty.com.ua##div.cookie-banner
+
+! https://kniazha.ua
+kniazha.ua##div.cookietxt
+
+! https://getsmart.com.ua
+getsmart.com.ua##div.sccm
+
+! === Annoying popup ===
+! https://crezu.com.ua
+crezu.com.ua##div.push
