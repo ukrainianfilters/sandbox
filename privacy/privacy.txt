@@ -286,3 +286,9 @@ volynpost.com##div#SinoptikInformer
 ! https://i.factor.ua
 ||analytics.factor.ua^
 ||i.factor.ua/js/analytics_factor.js
+
+! https://mod.gov.ua
+||widget-cz.ukc.gov.ua/build/*/analytics.html
+
+! https://tdl.com.ua
+||tdl.com.ua/user_stat.php
