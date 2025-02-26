@@ -527,3 +527,7 @@ shuba.life##div:has(> a[data-top-banner])
 ! https://site.ua
 site.ua##div.adv
 site.ua##div[id^="adpartner-branding-"]
+
+! https://tsn.ua
+||tsn.ua/static/pub/js/membrana-video.js
+||tsn.ua/static/pub/js/advertize.js
