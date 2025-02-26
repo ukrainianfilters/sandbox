@@ -531,3 +531,6 @@ site.ua##div[id^="adpartner-branding-"]
 ! https://tsn.ua
 ||tsn.ua/static/pub/js/membrana-video.js
 ||tsn.ua/static/pub/js/advertize.js
+
+! Membrana Media
+||membrana-cdn.media^
