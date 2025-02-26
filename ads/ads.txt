@@ -523,3 +523,7 @@ vidpoviday.com##aside.widget-area:has(ins.adsbygoogle)
 
 ! https://shuba.life
 shuba.life##div:has(> a[data-top-banner])
+
+! https://site.ua
+site.ua##div.adv
+site.ua##div[id^="adpartner-branding-"]
