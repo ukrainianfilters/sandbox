@@ -283,6 +283,6 @@ volynpost.com##div#SinoptikInformer
 ! https://gameverse.com.ua
 ||gameverse.com.ua/api/posts/increase-views
 
-! https://www.factor.ua
+! https://i.factor.ua
 ||analytics.factor.ua^
 ||i.factor.ua/js/analytics_factor.js
