@@ -252,6 +252,9 @@ volynpost.com##div#SinoptikInformer
 ! https://www.momondo.ua
 ||momondo.ua/s/ads/
 
+! https://ek.ua
+||ek.ua/img/p.gif
+
 ! === Google Tag Manager ===
 ! https://www.momondo.ua
 ||momondo.ua/ugtm/
@@ -270,3 +273,16 @@ volynpost.com##div#SinoptikInformer
 ! https://crezu.com.ua
 ||events.crezu.net^
 ||clicfin.com^
+
+! https://ek.ua
+||ek.ua/gb.php
+
+! https://spadok.org.ua
+||c.apserver.org.ua^
+
+! https://gameverse.com.ua
+||gameverse.com.ua/api/posts/increase-views
+
+! https://www.factor.ua
+||analytics.factor.ua^
+||i.factor.ua/js/analytics_factor.js
