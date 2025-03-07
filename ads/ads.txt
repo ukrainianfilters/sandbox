@@ -489,3 +489,48 @@ bucha.com.ua##div[class^="dle_b_google-d"]
 contentwriter.com.ua##div.side-banner-carrier
 contentwriter.com.ua##div.side-banner
 contentwriter.com.ua##div.side-banner-training
+
+! >>>
+! 
+! === Ads ===
+! https://we.org.ua
+we.org.ua##div.ad_300_300
+we.org.ua##div.header-adv
+
+! https://tomato.ua
+tomato.ua##div:has(> div.adv_block)
+
+! https://photo-lviv.in.ua
+photo-lviv.in.ua##aside.td_block_template_1:has(img)
+
+! https://www.vidhuk.ua
+vidhuk.ua##div:has(> ins.adsbygoogle)
+vidhuk.ua##div.c_b:has(> div.ch_banner)
+vidhuk.ua##div#google_recommended
+vidhuk.ua##div.banner_container
+vidhuk.ua##div.banner_marker
+
+! https://poltava.to
+poltava.to##div.template-body-right:has(> div > div.bn)
+poltava.to##div.bn
+
+! https://www.newsroom.kh.ua
+newsroom.kh.ua##div.sidebar-widget:has(> a > noscript)
+
+! https://vidpoviday.com
+vidpoviday.com##div[class^="b-r b-r--"]
+vidpoviday.com##aside.widget-area:has(ins.adsbygoogle)
+
+! https://shuba.life
+shuba.life##div:has(> a[data-top-banner])
+
+! https://site.ua
+site.ua##div.adv
+site.ua##div[id^="adpartner-branding-"]
+
+! https://tsn.ua
+||tsn.ua/static/pub/js/membrana-video.js
+||tsn.ua/static/pub/js/advertize.js
+
+! Membrana Media
+||membrana-cdn.media^

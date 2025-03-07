@@ -230,3 +230,65 @@ volynpost.com##div#SinoptikInformer
 
 ! https://friendsclub.com.ua
 ||api.ipify.org^$third-party,domain=friendsclub.com.ua
+
+! >>>
+! 
+! === Tracking pixels ===
+! https://ruport.com.ua
+||ruport.com.ua/im/gn/null.gif
+
+! https://teach-inf.com.ua
+||teach-inf.com.ua/stat/
+
+! https://dom.ria.com
+||slonik.ria.com^
+
+! https://smk-retail.com.ua
+||smk-retail.com.ua/img/user/app/px.gif
+
+! https://smk-group.com.ua
+||smk-group.com.ua/img/user/pixel.png
+
+! https://www.momondo.ua
+||momondo.ua/s/ads/
+
+! https://ek.ua
+||ek.ua/img/p.gif
+
+! === Google Tag Manager ===
+! https://www.momondo.ua
+||momondo.ua/ugtm/
+
+! === Other tracking ===
+! https://booknet.ua
+||booknet.ua/tracker/
+
+! https://wah.ua
+||analytics.omnimind.ai^
+
+! https://www.langlover.com.ua
+||langlover.com.ua/api/proxy/honeycomb
+||langlover.com.ua/api/countview/
+
+! https://crezu.com.ua
+||events.crezu.net^
+||clicfin.com^
+
+! https://ek.ua
+||ek.ua/gb.php
+
+! https://spadok.org.ua
+||c.apserver.org.ua^
+
+! https://gameverse.com.ua
+||gameverse.com.ua/api/posts/increase-views
+
+! https://i.factor.ua
+||analytics.factor.ua^
+||i.factor.ua/js/analytics_factor.js
+
+! https://mod.gov.ua
+||widget-cz.ukc.gov.ua/build/*/analytics.html
+
+! https://tdl.com.ua
+||tdl.com.ua/user_stat.php
