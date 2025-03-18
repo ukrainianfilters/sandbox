@@ -534,3 +534,46 @@ site.ua##div[id^="adpartner-branding-"]
 
 ! Membrana Media
 ||membrana-cdn.media^
+
+! >>>
+! 
+! === Ads ===
+! https://ek.ua
+||ek.ua/pst.php
+||ek.ua/gb.php
+
+! https://doc.ua
+||banners.doc.ua^
+||influ2.com^
+
+! https://zno.osvita.ua
+||osvita.ua/doc/images/banners/
+||osvita.ua/doc/js/banners_multi.js
+||osvita.ua/doc/js/banners-groups.js
+||osvita.ua/doc/js/1custom.js
+
+! https://shkola.in.ua
+||kl89regular.com^
+
+! https://korusno-znatu.in.ua
+korusno-znatu.in.ua##header#masthead > div.container
+
+! https://gosta.media
+gosta.media##div.gosta-ads
+gosta.media##div[class^="ads-banner-"]
+
+! https://novadoba.com.ua
+novadoba.com.ua##div#adsense
+novadoba.com.ua##section:has(a[title="Реклама"])
+
+! https://minfin.com.ua
+||minfin.com.ua/i/ads/
+minfin.com.ua##div.mfz-section
+
+! https://deepstatemap.live
+deepstatemap.live##div.drawer-block:has(a.drawer-partner)
+
+! https://rup.com.ua
+rup.com.ua##div[id^="place"]
+! Anti-adblock
+rup.com.ua##b:has([id^="ad"]):remove()
