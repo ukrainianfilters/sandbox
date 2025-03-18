@@ -544,7 +544,6 @@ site.ua##div[id^="adpartner-branding-"]
 
 ! https://doc.ua
 ||banners.doc.ua^
-||influ2.com^
 
 ! https://zno.osvita.ua
 ||osvita.ua/doc/images/banners/
