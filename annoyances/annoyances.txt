@@ -328,3 +328,9 @@ getsmart.com.ua##div.sccm
 ! === Annoying popup ===
 ! https://crezu.com.ua
 crezu.com.ua##div.push
+
+! >>>
+! 
+! === Cookie banner ===
+! https://ukraine-gta.com.ua
+ukraine-gta.com.ua##div.cookie-container
