@@ -292,3 +292,16 @@ volynpost.com##div#SinoptikInformer
 
 ! https://tdl.com.ua
 ||tdl.com.ua/user_stat.php
+
+! >>>
+! 
+! === Tracking ===
+! https://dmsu.cherg.net
+||dmsu.cherg.net/catalog/view/javascript/fingerprint.js
+
+! https://doc.ua
+||influ2.com^
+
+! === Tracking pixel ===
+! https://bookclub.ua
+||bookclub.ua/imgmail/1.gif
