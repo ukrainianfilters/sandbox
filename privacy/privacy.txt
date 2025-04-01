@@ -305,3 +305,50 @@ volynpost.com##div#SinoptikInformer
 ! === Tracking pixel ===
 ! https://bookclub.ua
 ||bookclub.ua/imgmail/1.gif
+
+! >>>
+! 
+! === Counters ===
+! https://mezha.media
+||counter.mezha.media^
+
+! https://ivona.ua
+||ivona.ua/click/
+
+! https://uainfo.org
+||k.cackle.me/widget/*/count
+
+! === Tracking pixel ===
+! https://misto.travel
+||travelpayouts.com^
+
+! === Other ===
+! https://www.kyivpost.com
+||flxr.myplan-c.com^
+
+! https://buki.com.ua
+||sst.buki.com.ua^
+
+! https://bukischool.com.ua
+||sst.bukischool.com.ua^
+
+! https://eva.ua
+||lens.eva.ua^
+||eva.ua/assets/scripts/uxlens.js
+
+! https://prytulafoundation.org
+||hutils.loxal.net/whois
+
+! https://median-grp.com
+||analytics.median-grp.com^
+
+! https://drukarnia.com.ua
+||api.drukarnia.com.ua/api/stats/
+
+! https://ruhednosti.org
+||bidata.store^
+||tracker.profit.store^
+||api.median-grp.com^
+
+! https://shafa.ua
+||tracker.shafa.ua^
