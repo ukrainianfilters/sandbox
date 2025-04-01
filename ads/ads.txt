@@ -576,3 +576,74 @@ deepstatemap.live##div.drawer-block:has(a.drawer-partner)
 rup.com.ua##div[id^="place"]
 ! Anti-adblock
 rup.com.ua##b:has([id^="ad"]):remove()
+
+! >>>
+! 
+! === Ads ===
+! https://mydim.ua
+mydim.ua##div.e-right-banners
+mydim.ua##div.e-left-banners
+
+! https://uakino.me
+uakino.me##div.side-content-adblock
+
+! 28 бер. 2025 р. https://ukranews.com
+ukranews.com##div[class*="ad-id-"]
+ukranews.com##div.b-banner
+||ukranews.com/banners.json
+
+! https://podrobnosti.ua
+podrobnosti.ua##div[id^="adex-jsunit-"]
+
+! https://noworries.news
+noworries.news##div.advertising-box
+
+! https://borgexpert.com
+borgexpert.com##div.widget-banner
+borgexpert.com##div.home-banner-mob
+borgexpert.com##li.li-banner-mobile
+
+! https://brokker.news
+brokker.news##div.container-bn-ds
+brokker.news##div:has(> ins.adsbygoogle)
+
+! https://uainfo.org
+||c8.net.ua^
+uainfo.org##div:has(> div[id^="MIXADV_"])
+
+! https://ysc.kiev.ua
+ysc.kiev.ua##div:has(> ins.adsbygoogle)
+ysc.kiev.ua##div:has(> div.ai-rotate)
+ysc.kiev.ua##div[id^="ai_widget-"]
+ysc.kiev.ua##div:has(> div[id^="adex-jsunit-"])
+
+! https://uaportal.com
+uaportal.com##aside.banner
+uaportal.com##div.bannerAside
+
+! 28 бер. 2025 р. https://terazus.com
+terazus.com##div.banner
+terazus.com##div.footer_banners_area_small
+
+! https://www.ukr.net
+ukr.net##div.adsense
+
+! https://enovosty.com
+enovosty.com##div.asp-widget-ads
+enovosty.com##div.banner-in-news
+enovosty.com##div[id^="admixer_"]
+
+! https://bigkyiv.com.ua
+bigkyiv.com.ua##div#banner-four-cols
+bigkyiv.com.ua##div:has(> div#banner-body)
+bigkyiv.com.ua##div[id^="banner-sidebar-"]
+
+! https://www.telefonnyjdovidnyk.com.ua
+telefonnyjdovidnyk.com.ua##div.ad
+
+! https://median-grp.com
+||api.median-ads.com^
+
+! https://24tv.ua
+! Мобільна версія
+24tv.ua##div#idealMediaWrapper
