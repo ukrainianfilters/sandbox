@@ -334,3 +334,30 @@ crezu.com.ua##div.push
 ! === Cookie banner ===
 ! https://ukraine-gta.com.ua
 ukraine-gta.com.ua##div.cookie-container
+
+! >>>
+! 
+! === Cookie banners ===
+! https://bukischool.com.ua
+bukischool.com.ua##div.styles_bannerWrapper__yRpsJ
+
+! https://savelife.in.ua
+savelife.in.ua##div#cookie-consent-banner
+
+! https://brokker.news
+brokker.news##div.cookies-warning
+
+! https://visitukraine.today
+visitukraine.today##div.cookie-consent-wrapper
+
+! https://www.riyukraine.com
+riyukraine.com##div.consent-banner-root
+
+! https://www.front-u.com
+front-u.com##div.consent-banner-root
+
+! https://dev.ua/blogs
+dev.ua##div.cookie-dialog
+
+! https://careers.computools.ua
+computools.ua##section.jquery_cookie
