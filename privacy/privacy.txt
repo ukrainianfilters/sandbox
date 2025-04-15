@@ -352,3 +352,44 @@ volynpost.com##div#SinoptikInformer
 
 ! https://shafa.ua
 ||tracker.shafa.ua^
+
+! >>>
+! 
+! === Counters ===
+||counter.1gb.ua^
+||counter.topping.com.ua^
+
+! https://itc.ua
+||stats.itc.ua^
+
+! https://rbc.ua
+||stats.rbc.ua^
+
+! https://post.cv.ua
+||stat24.meta.ua^
+||counter.best.cv.ua^
+
+! https://elib.nlu.org.ua
+||counter.nplu.org^
+
+! === Other ===
+! https://bigl.ua
+||gotcha-server.evo.run/metrics
+||tracker.bigl.ua^
+
+! https://www.stiystil.com.ua
+||analytics.stiystil.com.ua^
+
+! https://rule.school
+||c0.froala.com^
+
+! https://grade.ua
+||grade.ua/wp-json/sage/v1/analytics-data/
+||grade.ua/app/uploads/sourcebuster.min.js
+
+! https://cambridge.ua
+||cambridge.ua/wp-json/sage/v1/analytics-data/
+||cambridge.ua/app/themes/sage/dist/scripts/sourcebuster.min.js
+
+! https://www.hurtom.com
+||stats.hurtom.com^
