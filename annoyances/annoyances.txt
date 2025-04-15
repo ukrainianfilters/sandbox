@@ -361,3 +361,21 @@ dev.ua##div.cookie-dialog
 
 ! https://careers.computools.ua
 computools.ua##section.jquery_cookie
+
+! >>>
+! 
+! === Cookie banners ===
+! https://www.ueex.com.ua
+ueex.com.ua##div#gdpr-cookie-message
+
+! https://smile-ukraine.com
+smile-ukraine.com##div.eu-cookie-compliance-banner
+
+! https://proosbb.info
+proosbb.info##div.eu-cookie-compliance-banner
+
+! https://grade.ua/
+grade.ua##+js(set-local-storage-item, consentGranted, false)
+
+! https://cambridge.ua/
+cambridge.ua##+js(set-local-storage-item, consentGranted, false)
