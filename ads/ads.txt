@@ -647,3 +647,132 @@ telefonnyjdovidnyk.com.ua##div.ad
 ! https://24tv.ua
 ! Мобільна версія
 24tv.ua##div#idealMediaWrapper
+
+! >>>
+! 
+! === Ads ===
+! https://dev.ua
+! Головна сторінка
+dev.ua##div.island__body-aside:has(ins.adsbygoogle)
+dev.ua##div.island__body-aside:has(> div.partners-wrapper)
+dev.ua##div:has(> div > div.article-section__currency-banner)
+! Всередині новини. Наприклад, знижка на MEGOGO
+dev.ua##figure.global-incut:has(div[data-sender="admixer"])
+
+! https://dynamo.kiev.ua
+! ##div[id="admixer_"] - не працює, тому додав працюючий
+dynamo.kiev.ua##div[id^="admixer_"]
+dynamo.kiev.ua##div:has(> script[src*="googlesyndication.com"])
+dynamo.kiev.ua##div#js-preload-banner
+dynamo.kiev.ua##div#dynamo_interstitial
+dynamo.kiev.ua##div[id^="dynamo_index"]
+dynamo.kiev.ua##div[id^="dynamo_blogs"]
+dynamo.kiev.ua##div[id^="dynamo_premium"]
+dynamo.kiev.ua##div:has(> div[id^="dynamo-post"])
+
+! https://pidruchnyk.com.ua
+! Не блокуються div з ID admixer
+! ##div[id^="admixer_"] + script
+pidruchnyk.com.ua##div[id^="admixer_"]
+
+! https://www.okino.ua
+okino.ua##head > style:empty:style(all: inherit !important)
+okino.ua##div[id^="admixer_"]
+okino.ua##div:has(> ins.adsbygoogle)
+okino.ua##div:has(> script[src*="comin.co"])
+okino.ua##div#js-preload-banner
+okino.ua##div[id^="okino_premium"]
+okino.ua##div.recommend-bl
+okino.ua##div#okino_interstitial
+
+! https://mind.ua
+mind.ua##div[id^="admixer_"]
+
+! https://nauka.ua
+||nauka.ua/banner/
+
+! https://kinoafisha.ua
+kinoafisha.ua##div.banner
+kinoafisha.ua##div[Id^="adex-vunit-"]
+kinoafisha.ua##div.informer:has(> noindex ins.adsbygoogle)
+
+! https://highload.tech
+highload.tech##[class^="partner"]
+highload.tech##div:has(> img[src*="/images/banners/"])
+highload.tech##aside.banner-agency
+
+! Ці фільтри блокують вкладку "Спецпроєкти"
+! ##div.mobile-hide:not(:has(> a[href*="/tretya-shturmova-ogoloshuye-zbir-"]))
+! ##div.mobile-show:not(:has(> a[href*="/tretya-shturmova-ogoloshuye-zbir-"]))
+! Наступний фільтр також блокує цей елемент
+! ##p.intro[style*="background: linear-gradient"]
+highload.tech##:has(> a[class^="out-link"])
+
+! https://w3schoolsua.github.io
+w3schoolsua.github.io##div[class^="adver"]
+w3schoolsua.github.io##div[class^="admedia"]
+
+! https://www.historyua.com
+historyua.com##div:has(> ins.adsbygoogle)
+
+! https://zakarpattya.net.ua
+zakarpattya.net.ua##div.top_banners
+zakarpattya.net.ua##div[id^="column"] > div:has(> a[href="https://www.ukr.net/"])
+
+! https://ye.ua
+||openx2.ye.ua^
+ye.ua##div.ads
+ye.ua##div.main-header__banner
+ye.ua##div.floatAds
+
+! https://uahistory.co
+||viads.com^
+||rcllfmbk.win^
+uahistory.co##div:has(> a[href*="ronin.bz"])
+
+! https://osvita.ua
+! https://osvita.ua/vnz/reports/econom_history/25271/
+! ##div:has(> div.blosk-advertising-google)
+! Блокує увесь зміст сторінки
+osvita.ua##div.blosk-advertising-google
+
+! ##div[data-sender="admixer"]
+! Не блокує деякі елементи без data-sender
+osvita.ua##div[id^="admixer_"]
+
+! https://osvita.ua
+osvita.ua##div.banner-telegram
+osvita.ua##div.article__baners-group
+
+! https://urok.osvita.ua
+osvita.ua##li.adv
+osvita.ua##div[class^="baner"]
+
+! https://rule.school
+||hotbsukavu.today^
+rule.school##div.panel:has(> ins.adsbygoogle)
+
+! http://poradu24.com
+poradu24.com##div:has(> ins.adsbygoogle)
+
+! https://playua.net
+playua.net##div.head-ad_vert
+
+! https://tereveni.org
+||tereveni.org/mobiquo/smartbanner/
+tereveni.org##div.newsblock:has-text(Друзі)
+
+! https://mama-tato.com.ua
+mama-tato.com.ua##div.mt-friends
+
+! https://www.hurtom.com
+hurtom.com##div.partners
+
+! https://list.in.ua
+list.in.ua##div:has(> ins.adsbygoogle)
+list.in.ua##div.js-banners-list-mobile-container
+list.in.ua##div.js-banners-list-container
+
+! https://postcode.in.ua
+! div та aside
+postcode.in.ua##:has(> ins.adsbygoogle)
