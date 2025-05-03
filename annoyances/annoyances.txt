@@ -379,3 +379,7 @@ grade.ua##+js(set-local-storage-item, consentGranted, false)
 
 ! https://cambridge.ua/
 cambridge.ua##+js(set-local-storage-item, consentGranted, false)
+
+! https://y.ua/
+y.ua##.cl-dialog
+y.ua##.cl-launcher
