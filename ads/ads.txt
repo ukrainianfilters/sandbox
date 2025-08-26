@@ -13,7 +13,7 @@ vechirniy.kyiv.ua##.page-promo
 visnyk-irpin.com.ua##.image
 
 ! >>>
-! 
+!
 ukr.net##.fuel-bottom-banner
 kinoafisha.ua##.fixed.link-main-image-wrap
 it-rating.ua##.rowBan
@@ -34,7 +34,7 @@ odessa-life.od.ua##.wpb_raw_html.wpb_content_element.wpb_raw_code > .wpb_wrapper
 imena.ua##section.widget:nth-of-type(1)
 
 ! >>>
-! 
+!
 ! === "Disable your ad blocker" ===
 ||1plus1.video/ab/
 ! === Ads ===
@@ -62,7 +62,7 @@ vseazs.com##a.vseosago
 vseazs.com##p:has-text(Наші партнери)
 
 ! >>>
-! 
+!
 ! === Ads ===
 ||5.ua/js/banner/$script,domain=5.ua
 bihus.info##div.r-tram_wrap
@@ -81,7 +81,7 @@ finance.ua##div.h-market-block_left > div:has(a[href])
 minfin.com.ua###special-product-offer
 
 ! >>>
-! 
+!
 ! === Ads ===
 ||a5.overclockers.ua^
 cloudgaminghub.net.ua##div.banner-promotions-wrapper
@@ -96,7 +96,7 @@ gsminfo.com.ua##div.code-block:has(ins.adsbygoogle)
 gsminfo.com.ua##div.widget:has(ins.adsbygoogle)
 
 ! >>>
-! 
+!
 ! === Ads ===
 ||misto.travel/templates/js/promowghot.js$script,domain=novynarnia.com
 kagarlyk.city##div.mc-banner-placeholder
@@ -106,7 +106,7 @@ varosh.com.ua##div.adv
 
 
 ! >>>
-! 
+!
 ! === Ads ===
 mind.ua###promo-catfish
 gordonua.com##div[data-action="banners"]
@@ -115,7 +115,7 @@ ukrdz.in.ua##section.widget_text.widget:has(script)
 glamour.kyiv.ua##div.textwidget
 
 ! >>>
-! 
+!
 ! === Ads ===
 teg.com.ua,animal.in.ua,tsikavi-fakty.com.ua##div.code-block:has(ins.adsbygoogle)
 moyaosvita.com.ua##div[data-index]:has(ins.adsbygoogle)
@@ -133,7 +133,7 @@ pidruchnyk.com.ua##div[id^="admixer_"]
 urok.in.ua##p:has(ins.adsbygoogle)
 
 ! >>>
-! 
+!
 ! === Ads ===
 ||informator.ua/js/frontend/ad-loaders/$script,1p
 ! https://rud.ua/consumer/
@@ -169,7 +169,7 @@ pingvin.pro##div:has(> div > a[href="https://pingvin.pro/category/blogy/offers"]
 inshe.tv##div.jeg_ad:remove()
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://journal.ilounge.ua/
 ilounge.ua##div[style]:has(> ins.adsbygoogle):remove()
@@ -196,7 +196,7 @@ zhenskiy.kyiv.ua##aside:has(div > a[href*="myblogshop.top"])
 zhenskiy.kyiv.ua##div.elementor:has(div > div > a[href*="myblogshop.top"])
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://tydyvy.com/t/movie2.0
 tydyvy.com##div#jarvis-banner
@@ -205,7 +205,7 @@ tydyvy.com##div#jarvis-banner
 ||safeview.ukr.net/frame/desktop-top-banner.html$subdocument
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://patient-docs.com/
 ! Банер видно, якщо увійти в обліковий запис
@@ -220,7 +220,7 @@ uahistory.co##div:has(> ins.adsbygoogle):remove()
 ||agenteimmobiliare.info^
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://daytoday.ua/
 daytoday.ua##div[id^="dayto-"]:has(> ins.adsbygoogle):remove()
@@ -262,7 +262,7 @@ mobanking.com.ua##div:has(> ins.adsbygoogle):remove()
 monobankinfo.com.ua##aside:has(> div > ins.adsbygoogle):remove()
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://informator.ua
 ||ads.informator.ua^
@@ -278,7 +278,7 @@ ternopoliany.te.ua##div:has(> div.rek)
 ternopoliany.te.ua##div.rek760
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://www.dsnews.ua
 dsnews.ua##div[id^="adpartner"]
@@ -327,7 +327,7 @@ nezhatin.com.ua##div.entry-content > p:has(img)
 nezhatin.com.ua##p:has(> ins.adsbygoogle)
 nezhatin.com.ua##div#primary > div[id]:has-text(загрузка...)
 
-! 
+!
 ! === Ads ===
 ! https://ek.ua
 ek.ua##div.banner-topline
@@ -339,7 +339,7 @@ obyava.ua##div.list-header-banner
 obyava.ua##div.classified-top-banner
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://gepur.com
 ! tags.creativecdn.com
@@ -381,7 +381,7 @@ vcf.vn.ua##aside.widget:has(> ins.adsbygoogle)
 vcf.vn.ua##div:has(> ins.adsbygoogle)
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://eneyida.tv
 ! https://uaserials.pro
@@ -395,7 +395,7 @@ uaserials.pro##div.rek1
 ufdub.com##aside.side > a[href]:has(img[src])
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://interes-fakti.com
 interes-fakti.com##div:has(> ins.adsbygoogle)
@@ -426,7 +426,7 @@ poznavayka.org##aside.widget:has(div > div.rek_bok)
 miyklas.com.ua##div.sc-wrap
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://womo.ua
 womo.ua##div[id^="admixer_"]
@@ -457,7 +457,7 @@ ukr-mova.in.ua##div:has(> div.container > ins.adsbygoogle)
 popolsku.co.ua##div.sidebar:has(> div.ad-300)
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://tvorchist.will.cx.ua
 ||clickua200.pp.ua^
@@ -491,7 +491,7 @@ contentwriter.com.ua##div.side-banner
 contentwriter.com.ua##div.side-banner-training
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://we.org.ua
 we.org.ua##div.ad_300_300
@@ -536,7 +536,7 @@ site.ua##div[id^="adpartner-branding-"]
 ||membrana-cdn.media^
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://ek.ua
 ||ek.ua/pst.php
@@ -578,7 +578,7 @@ rup.com.ua##div[id^="place"]
 rup.com.ua##b:has([id^="ad"]):remove()
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://mydim.ua
 mydim.ua##div.e-right-banners
@@ -649,7 +649,7 @@ telefonnyjdovidnyk.com.ua##div.ad
 24tv.ua##div#idealMediaWrapper
 
 ! >>>
-! 
+!
 ! === Ads ===
 ! https://dev.ua
 ! Головна сторінка
