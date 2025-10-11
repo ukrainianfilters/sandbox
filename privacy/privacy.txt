@@ -7,13 +7,13 @@
 ||search.com.ua/analytics/$1p
 
 ! >>>
-! 
+!
 ! Sinoptik
 brovary.net.ua##div#SinoptikInformer
 brovary.net.ua##.elementor-widget-smartmag-heading:has-text(Погода)
 
 ! >>>
-! 
+!
 ! === Comments ===
 coolinfo.in.ua##div.entry-sec.comment-box-wrap
 root-nation.com##div.comments
@@ -22,7 +22,7 @@ uaprogaming.com.ua##div.comments-area
 times.zt.ua##div#SinoptikInformer
 
 ! >>>
-! 
+!
 ! === connect.facebook.net ===
 ||connect.facebook.net^$third-party,domain=bihus.info
 ! === Comments ===
@@ -30,18 +30,18 @@ minfin.com.ua###gotoComment
 minfin.com.ua##span.write-comments
 
 ! >>>
-! 
+!
 ! === connect.facebook.net ===
 ||connect.facebook.net^$third-party,domain=gsminfo.com.ua
 
 ! >>>
-! 
+!
 ! === Tracking pixel ===
 ! https://stand-with-ukraine.pp.ua
 ||vsh.pp.ua/pixel.js$script
 
 ! >>>
-! 
+!
 ! === Analytics / Tracking ===
 ! https://speakwell.ua
 ||enguide.ua/analytics.js
@@ -50,7 +50,7 @@ minfin.com.ua##span.write-comments
 ||moonanime.art/api/stats/
 
 ! >>>
-! 
+!
 ! === Analytics / Tracking ===
 ! https://mail.ukr.net/desktop
 ||accounts.ukr.net/api/v1/token/analytics/
@@ -81,7 +81,7 @@ minfin.com.ua##span.write-comments
 ||work.ua/social/fb-counter/
 
 ! >>>
-! 
+!
 ! === Analytics ===
 ! https://ideabank.ua/uk
 ||ideabank.ua/analytics.js
@@ -94,14 +94,14 @@ minfin.com.ua##span.write-comments
 ||e-zapis.com/ajax/metric.php
 
 ! >>>
-! 
+!
 ! === Analytics ===
 ! https://hikka.io/
 ! Plausible Analytics
 ||hikka.io/js/plausible.local.js$script
 
 ! >>>
-! 
+!
 ! === Analytics ===
 ! https://megogo.net
 ||et.megogo.net^
@@ -118,7 +118,7 @@ minfin.com.ua##span.write-comments
 vezha.ua##div.middle_banner
 
 ! >>>
-! 
+!
 ! https://gazeta-misto.te.ua
 ! Віджет Sinoptik
 gazeta-misto.te.ua##div.widget:has(div#SinoptikInformer)
@@ -130,7 +130,7 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ! Plausible Analytics
 ||uoi.eolymp.space/measure/
 
-! 
+!
 ! === Analytics / Tracking ===
 ! https://eva.ua
 ||data-api.eva.ua^
@@ -156,7 +156,7 @@ gazeta-misto.te.ua##div.jnews_comment_container
 ||sst.comfy.ua^
 
 ! >>>
-! 
+!
 ! === Analytics / Tracking ===
 ! https://telemart.ua
 ||cralodas.com.ua^
@@ -174,7 +174,7 @@ gazeta-misto.te.ua##div.jnews_comment_container
 volynpost.com##div#SinoptikInformer
 
 ! >>>
-! 
+!
 ! === Tracking pixel ===
 ! https://gameua.com.ua
 ||gameua.com.ua/wp-content/themes/breek/assets/images/transparent.gif
@@ -183,7 +183,7 @@ volynpost.com##div#SinoptikInformer
 ||zcode17.com^
 
 ! >>>
-! 
+!
 ! === Analytics ===
 ! https://mate.academy
 ||mate.academy/dwh
@@ -200,7 +200,7 @@ volynpost.com##div#SinoptikInformer
 ||itstep.org/js/sentry.js
 
 ! >>>
-! 
+!
 ! === Tracking ===
 ! https://apkcafe.com.ua
 ||handler.wt0.me^
@@ -232,7 +232,7 @@ volynpost.com##div#SinoptikInformer
 ||api.ipify.org^$third-party,domain=friendsclub.com.ua
 
 ! >>>
-! 
+!
 ! === Tracking pixels ===
 ! https://ruport.com.ua
 ||ruport.com.ua/im/gn/null.gif
@@ -294,7 +294,7 @@ volynpost.com##div#SinoptikInformer
 ||tdl.com.ua/user_stat.php
 
 ! >>>
-! 
+!
 ! === Tracking ===
 ! https://dmsu.cherg.net
 ||dmsu.cherg.net/catalog/view/javascript/fingerprint.js
@@ -307,7 +307,7 @@ volynpost.com##div#SinoptikInformer
 ||bookclub.ua/imgmail/1.gif
 
 ! >>>
-! 
+!
 ! === Counters ===
 ! https://mezha.media
 ||counter.mezha.media^
@@ -354,7 +354,7 @@ volynpost.com##div#SinoptikInformer
 ||tracker.shafa.ua^
 
 ! >>>
-! 
+!
 ! === Counters ===
 ||counter.1gb.ua^
 ||counter.topping.com.ua^
@@ -393,3 +393,54 @@ volynpost.com##div#SinoptikInformer
 
 ! https://www.hurtom.com
 ||stats.hurtom.com^
+
+! >>>
+!
+! === Facebook Pixel ===
+! https://book-ye.com.ua
+||book-ye.com.ua/amasty_fbpixel/
+
+! https://f.ua
+||f.ua/ajax/fb_api/page_view
+
+! https://prostor.ua
+||prostor.ua/*/amasty_fbpixel/
+
+! >>>
+!
+! === Other ===
+! https://comfy.ua
+||api-bloomreach.comfy.ua^
+
+! https://shafa.ua
+||clerk.c.prom.st^
+
+! https://varus.ua
+||varus.ua/api/ext/log
+
+! https://makeup.ua
+||analytics.makeup.global^
+
+! https://jysk.ua
+||direct.dy-api.eu^
+
+! https://ranok.com.ua
+||ranok.com.ua/dist/googleAnalytics-*.js
+||ranok.com.ua/dist/googleEcommerce-*.js
+||ranok.com.ua/dist/facebookAnalytics-*.js
+||ranok.com.ua/dist/facebookEvents-*.js
+
+! https://bookchef.ua
+||bookchef.ua/bitrix/tools/conversion/ajax_counter.php
+||bookchef.ua/bitrix/tools/arturgolubev.ecommerce/getscripts_v2.php
+
+! https://y.ua
+||y.ua/_form/log
+
+! https://zolotiyvik.ua
+||tangiblee.com^
+||esputnik.com^
+||zolotiyvik.ua/static/*/js/esputnik-scripts.min.js
+
+! https://gas.ua
+||gas.ua/js/ga.js
