@@ -1,6 +1,6 @@
-# Ukrainian Filters (sandbox)
+# Ukrainian Ad & Privacy Filters (sandbox)
 
-[Ukrainian Filters](https://github.com/ukrainianfilters/lists) (Українські фільтри) — це веб-фільтри, які автоматично видаляють небажаний контент з українських сайтів, включно з рекламою, дратівливими елементами, трекерами та шкідливими скриптами.
+[Ukrainian Ad & Privacy Filters](https://github.com/ukrainianfilters/lists) — це веб-фільтри, які автоматично видаляють небажаний контент з українських сайтів, включно з рекламою, дратівливими елементами, трекерами та шкідливими скриптами.
 
 ## Співпраця
 
