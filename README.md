@@ -1,3 +1,5 @@
+![Project Banner](./assets/banners/banner_github.png)
+
 # Ukrainian Ad & Privacy Filters (sandbox)
 
 [Ukrainian Ad & Privacy Filters](https://github.com/ukrainianfilters/lists) — це веб-фільтри, які автоматично видаляють небажаний контент з українських сайтів, включно з рекламою, дратівливими елементами, трекерами та шкідливими скриптами.
